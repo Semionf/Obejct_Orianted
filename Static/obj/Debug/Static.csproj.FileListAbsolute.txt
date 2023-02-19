@@ -1,0 +1,8 @@
+C:\Users\sfurl\source\repos\ObjectOrianted\Static\bin\Debug\Static.exe.config
+C:\Users\sfurl\source\repos\ObjectOrianted\Static\bin\Debug\Static.exe
+C:\Users\sfurl\source\repos\ObjectOrianted\Static\bin\Debug\Static.pdb
+C:\Users\sfurl\source\repos\ObjectOrianted\Static\obj\Debug\Static.csproj.AssemblyReference.cache
+C:\Users\sfurl\source\repos\ObjectOrianted\Static\obj\Debug\Static.csproj.SuggestedBindingRedirects.cache
+C:\Users\sfurl\source\repos\ObjectOrianted\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\sfurl\source\repos\ObjectOrianted\Static\obj\Debug\Static.exe
+C:\Users\sfurl\source\repos\ObjectOrianted\Static\obj\Debug\Static.pdb
